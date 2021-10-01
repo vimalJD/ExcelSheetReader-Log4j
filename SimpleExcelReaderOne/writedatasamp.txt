@@ -1,0 +1,4 @@
+insert into Emp values('vimal','a','patel',);
+insert into Emp values('asn','no',208358.0,);
+insert into Emp values('seed','inforech','pvt ltd',);
+insert into Emp values('panchsheel','erandwane','karve road',);

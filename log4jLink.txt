@@ -1,0 +1,3 @@
+http://www.tutorialbyexample.com/2015/02/java-logging-log4j-program-example.html
+
+https://www.youtube.com/watch?v=q2IRCayWitc
